@@ -12,6 +12,7 @@
 		1A02CF771F3466A000CA8AE4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A02CF751F3466A000CA8AE4 /* Main.storyboard */; };
 		1A02CF791F3466A000CA8AE4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A02CF781F3466A000CA8AE4 /* Assets.xcassets */; };
 		1A02CF7C1F3466A000CA8AE4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A02CF7A1F3466A000CA8AE4 /* LaunchScreen.storyboard */; };
+		1A02CF841F3466E200CA8AE4 /* Models.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A02CF831F3466E200CA8AE4 /* Models.scnassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1A02CF781F3466A000CA8AE4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1A02CF7B1F3466A000CA8AE4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1A02CF7D1F3466A000CA8AE4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A02CF831F3466E200CA8AE4 /* Models.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; name = Models.scnassets; path = "../../Placing Objects/ARKitExample/Resources/Models.scnassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				1A02CF711F3466A000CA8AE4 /* AppDelegate.swift */,
 				1A02CF731F3466A000CA8AE4 /* ViewController.swift */,
 				1A02CF751F3466A000CA8AE4 /* Main.storyboard */,
+				1A02CF831F3466E200CA8AE4 /* Models.scnassets */,
 				1A02CF781F3466A000CA8AE4 /* Assets.xcassets */,
 				1A02CF7A1F3466A000CA8AE4 /* LaunchScreen.storyboard */,
 				1A02CF7D1F3466A000CA8AE4 /* Info.plist */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1A02CF7C1F3466A000CA8AE4 /* LaunchScreen.storyboard in Resources */,
+				1A02CF841F3466E200CA8AE4 /* Models.scnassets in Resources */,
 				1A02CF791F3466A000CA8AE4 /* Assets.xcassets in Resources */,
 				1A02CF771F3466A000CA8AE4 /* Main.storyboard in Resources */,
 			);
